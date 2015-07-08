@@ -8,3 +8,5 @@
 sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-ttf2.0-dev libmikmod-dev build-essential
 gcc -o ./boing src/boing.c src/scrollText.c src/sprite.c -Isrc -I/usr/include/SDL/ -lSDL -lSDL_ttf -lSDL_image -lmikmod -lm
 ```
+<h2>Music Note</h2>
+<p>I honestly don't remember where I got this music file from. I didn't write it myself. If you are the original author and want me to remove it, just let me know and I'll take it down.</p><p>I did create the graphics all by myself though using Blender</p>
